@@ -10,6 +10,8 @@ public class array {
         int ros[] = new int[5];
         System.out.println(hello);
         Scanner in = new Scanner(System.in);
+        String new12 = in.nextLine();
+        System.out.println(new12);
         String[][] arr = { { "Tirthesh", "Jain", "Is", "Here" }, { "I", "Am", "Also", "Here" },
                 { "Tirthesh", "Jain", "Is", "Here" } };
         System.out.println(arr[0]);
